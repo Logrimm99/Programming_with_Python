@@ -5,7 +5,7 @@ Contains both the project assignment, as well as the code segments from the writ
 ### 1. Move to path where the project shall be cloned and execute:
   
 
-    git clone https://github.com/Logrimm99/Test.git
+    git clone https://github.com/Logrimm99/Programming_with_Python.git
 
 ### 2. Install pip for Python3.12:
 		
